@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+
+<channel>
+<title>Integer Club Blog</title>
+<link>https://integerclub.com//blog/</link>
+<description>Feed from Integer Club Blog</description>
+
+<item>
+<title>Hello, World!</title>
+<link>https://integerclub.com//blog/hello-world/</link>
+<guid>https://integerclub.com//blog/hello-world/</guid>
+<description>
+<![CDATA[
+<p>Welcome to Integer Club. This community was formed to promote discussion and collaboration between people who love mathematics but are not necessarily mathematicians. The discussions&nbsp;<a href="https://integerclub.com//blog/hello-world/">...</a></p>
+<p><a href="https://integerclub.com//blog/hello-world/">Read More</a></p>
+]]>
+</description>
+<pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+</item>
+
+
+</channel>
+</rss>
